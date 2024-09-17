@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue">#0B1343</color>
+    <color name="light_blue">#3F51B5</color>
+    <color name="red">#F44336</color>
+    <color name="textColor">#816C6A6A</color>
+    <color name="green">#205722</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="purple">#37173C</color>
+
+    <color name="bankColor">#EC675D</color>
+    <color name="cashColor">#CC5C82</color>
+    <color name="cardColor">#49934C</color>
+    <color name="defaultColor">#43747A</color>
+</resources>
